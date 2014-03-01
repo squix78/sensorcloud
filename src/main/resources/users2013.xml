@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+ <user>
+  <personID>1</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Administrator</name>
+  <firstname>Conftool</firstname>
+  <email>info@conftool.net</email>
+  <email2 />
+  <emailcc />
+  <organisation>ConfTool.net</organisation>
+  <organisation2 />
+  <address1>-</address1>
+  <address2 />
+  <address3 />
+  <zip>-</zip>
+  <city>Hamburg</city>
+  <state />
+  <countrycode>DE</countrycode>
+  <country>Germany</country>
+  <country_long>Germany</country_long>
+  <region>Western_Europe</region>
+  <phone>++49/(0)40/20227297</phone>
+  <homepage_url />
+  <nationality>-</nationality>
+  <status>admin</status>
+  <topics_of_reviewer_pc />
+  <external_remark>This is the default administrator with user ID 1.
+Please do not delete and set a decent password! 
+If you need to work as administrator, better create a new user and give yourself administrative rights, as long as required.
+The default admin cannot register as participant or submit papers.</external_remark>
+  <internal_remark />
+  <user_registration>2005-01-01 00:00:00</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1</personID>
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1010</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>De Loof</name>
+  <firstname>nicolas</firstname>
+  <email>nicolas.deloof@gmail.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>cloudbees</organisation>
+  <organisation2 />
+  <address1>6 Lieu dit BESIAIS</address1>
+  <address2 />
+  <address3 />
+  <zip>35450</zip>
+  <city>Livre sur Changeon</city>
+  <state />
+  <countrycode>FR</countrycode>
+  <country>France</country>
+  <country_long>France</country_long>
+  <region>Western_Europe</region>
+  <phone>33630381743</phone>
+  <homepage_url />
+  <nationality>French</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-31 12:42:58</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1010</personID>
+  <1_Video_Reference_1>http://parleys.com/play/514892270364bc17fc56bfdc/chapter0/about</1_Video_Reference_1>
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1002</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>Chief Technology Officer</academic_job_title>
+  <title_combined>Chief Technology Officer</title_combined>
+  <name>Decurtins</name>
+  <firstname>Corsin</firstname>
+  <email>corsin.decurtins@netcetera.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>Netcetera</organisation>
+  <organisation2 />
+  <address1>Zypressenstr. 71</address1>
+  <address2 />
+  <address3 />
+  <zip>8040</zip>
+  <city>Zurich</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>+41 44 247 79 32</phone>
+  <homepage_url>http://netcetera.com/</homepage_url>
+  <nationality>Swiss</nationality>
+  <status />
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2010-12-12 05:58:37</user_registration>
+  <account_type>blocked</account_type>
+  <deleted>0</deleted>
+  <personID>1002</personID>
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1005</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Eichhorn</name>
+  <firstname>Daniel Martin</firstname>
+  <email>daniel.eichhorn@jazoon.com</email>
+  <email2>dani.eichhorn@squix.ch</email2>
+  <emailcc />
+  <organisation>Keynode</organisation>
+  <organisation2 />
+  <address1>Bachtelweg 4</address1>
+  <address2 />
+  <address3 />
+  <zip>8052</zip>
+  <city>Zurich</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>41788784156</phone>
+  <homepage_url />
+  <nationality>Swiss</nationality>
+  <status>admin,pc,reviewer</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-13 14:32:55</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1005</personID>
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1011</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>Senior Software Engineer</academic_job_title>
+  <title_combined>Senior Software Engineer</title_combined>
+  <name>Grunwald</name>
+  <firstname>Gerrit</firstname>
+  <email>gerrit.grunwald@canoo.com</email>
+  <email2>han.solo@muenster.de</email2>
+  <emailcc />
+  <organisation>Canoo Engineering AG</organisation>
+  <organisation2>Software Development</organisation2>
+  <address1>Westfalenstrasse 93</address1>
+  <address2 />
+  <address3 />
+  <zip>48165</zip>
+  <city>Münster</city>
+  <state />
+  <countrycode>DE</countrycode>
+  <country>Germany</country>
+  <country_long>Germany</country_long>
+  <region>Western_Europe</region>
+  <phone>+491711745350</phone>
+  <homepage_url>http://www.harmonic-code.org/</homepage_url>
+  <nationality>German</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-31 12:55:14</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1011</personID>
+  <1_Video_Reference_1>http://www.youtube.com/watch?v=ts_b2mBix3U</1_Video_Reference_1>
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1000</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Honegger</name>
+  <firstname>Felix</firstname>
+  <email>felix.honegger@keynode.biz</email>
+  <email2 />
+  <emailcc />
+  <organisation>keynode.biz</organisation>
+  <organisation2 />
+  <address1>Zypressenstr. 71</address1>
+  <address2 />
+  <address3 />
+  <zip>8004</zip>
+  <city>Zürich</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>0041 79 431 39 77</phone>
+  <homepage_url />
+  <nationality>Swiss</nationality>
+  <status />
+  <topics_of_reviewer_pc />
+  <external_remark>Bios..</external_remark>
+  <internal_remark>Steckenpferd....</internal_remark>
+  <user_registration>2010-12-10 14:38:29</user_registration>
+  <account_type>blocked</account_type>
+  <deleted>0</deleted>
+  <personID>1000</personID>
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1003</personID>
+  <title_selected>Ms.</title_selected>
+  <formal_salutation>Dear Ms.</formal_salutation>
+  <gender>female</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Ivanovski</name>
+  <firstname>Ognen</firstname>
+  <email>ognen.ivanovski@netcetera.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>Netcetera</organisation>
+  <organisation2 />
+  <address1>Partizanska 72a</address1>
+  <address2 />
+  <address3 />
+  <zip>1000</zip>
+  <city>Skopje</city>
+  <state />
+  <countrycode>MK</countrycode>
+  <country>Republic of Macedonia</country>
+  <country_long>Macedonia, Former Yugoslav Republic of</country_long>
+  <region>Eastern_Europe</region>
+  <phone>+389 70316200</phone>
+  <homepage_url>http://netcetera.com/</homepage_url>
+  <nationality>Macedonian</nationality>
+  <status>admin,conferenceChair,chair,pc,reviewer,assistant</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2010-12-23 10:54:33</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID />
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1014</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Lawley</name>
+  <firstname>Ross</firstname>
+  <email>ross@10gen.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>10Gen</organisation>
+  <organisation2>Engineering</organisation2>
+  <address1>23 Scrutton Street</address1>
+  <address2 />
+  <address3 />
+  <zip>EC1 1AD</zip>
+  <city>London</city>
+  <state />
+  <countrycode>UK</countrycode>
+  <country>United Kingdom</country>
+  <country_long>United Kingdom</country_long>
+  <region>Western_Europe</region>
+  <phone>+447717777172</phone>
+  <homepage_url>http://rosslawley.co.uk/</homepage_url>
+  <nationality>British</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-06-03 11:56:36</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1014</personID>
+  <1_Video_Reference_1>http://www.youtube.com/watch?v=N-S_yuhZtAw</1_Video_Reference_1>
+  <2_Community_Rating_2>I want to participate</2_Community_Rating_2>
+ </user>
+
+ <user>
+  <personID>1017</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>ICT System Engineer</academic_job_title>
+  <title_combined>ICT System Engineer</title_combined>
+  <name>Maklad</name>
+  <firstname>Ahmed</firstname>
+  <email>asmaklad@gmail.com</email>
+  <email2>ahmedsami.maklad@swisscom.com</email2>
+  <emailcc />
+  <organisation>Swisscom</organisation>
+  <organisation2 />
+  <address1>Alte Tiefenaustrasse 6</address1>
+  <address2 />
+  <address3 />
+  <zip>3048</zip>
+  <city>Worblaufen</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>+41796989775</phone>
+  <homepage_url>http://blog.maksoft.ch/</homepage_url>
+  <nationality>Egyptian</nationality>
+  <status />
+  <topics_of_reviewer_pc />
+  <external_remark>No Video available.</external_remark>
+  <internal_remark />
+  <user_registration>2013-06-04 16:58:51</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1017</personID>
+  <1_Video_Reference_1>http://blog.maksoft.ch/tutorials/</1_Video_Reference_1>
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1018</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Nadalin</name>
+  <firstname>Alessandro</firstname>
+  <email>alessandro.nadalin@gmail.com</email>
+  <email2 />
+  <emailcc>alessandro.nadalin@gmail.com</emailcc>
+  <organisation>Namshi</organisation>
+  <organisation2>Technology</organisation2>
+  <address1>Dubai Marina</address1>
+  <address2 />
+  <address3 />
+  <zip>00000</zip>
+  <city>Dubai</city>
+  <state />
+  <countrycode>AE</countrycode>
+  <country>United Arab Emirates</country>
+  <country_long>United Arab Emirates</country_long>
+  <region>Middle_East</region>
+  <phone>00971557627451</phone>
+  <homepage_url>http://odino.org/</homepage_url>
+  <nationality>Italian</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark>I partecipated at the Rookie Award in 2011, still didnt see the video from that time :)</external_remark>
+  <internal_remark />
+  <user_registration>2013-06-06 15:50:40</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1018</personID>
+  <1_Video_Reference_1>http://vimeo.com/53451968</1_Video_Reference_1>
+  <2_Community_Rating_2>I want to participate</2_Community_Rating_2>
+ </user>
+
+ <user>
+  <personID>1009</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Seeberger</name>
+  <firstname>Heiko</firstname>
+  <email>heiko.seeberger@gmail.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>Typesafe</organisation>
+  <organisation2 />
+  <address1>Brunnenstraße 28</address1>
+  <address2 />
+  <address3 />
+  <zip>86938</zip>
+  <city>Schondorf</city>
+  <state />
+  <countrycode>DE</countrycode>
+  <country>Germany</country>
+  <country_long>Germany</country_long>
+  <region>Western_Europe</region>
+  <phone>+49 8192 933155</phone>
+  <homepage_url>http://blog.heikoseeberger.name/</homepage_url>
+  <nationality>German</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-31 12:34:44</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1009</personID>
+  <1_Video_Reference_1>http://jaxenter.de/videos/Scala-in-Action</1_Video_Reference_1>
+  <2_Community_Rating_2>I want to participate</2_Community_Rating_2>
+ </user>
+
+ <user>
+  <personID>1013</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Tresch</name>
+  <firstname>Anatole</firstname>
+  <email>atsticks@gmail.com</email>
+  <email2>anatole.tresch@credit-suisse.com</email2>
+  <emailcc />
+  <organisation>Credit Suisse</organisation>
+  <organisation2>Core Frameworks</organisation2>
+  <address1>Postfach</address1>
+  <address2 />
+  <address3 />
+  <zip>8070</zip>
+  <city>Zürich</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>+41 76 344 62 79</phone>
+  <homepage_url />
+  <nationality>Swiss</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-06-03 10:43:45</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1013</personID>
+  <1_Video_Reference_1>http://tobedone</1_Video_Reference_1>
+  <2_Community_Rating_2>I want to participate</2_Community_Rating_2>
+ </user>
+
+ <user>
+  <personID>1016</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>Principal Consultant</academic_job_title>
+  <title_combined>Principal Consultant</title_combined>
+  <name>Wähner</name>
+  <firstname>Kai</firstname>
+  <email>megachucky@gmail.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>Talend</organisation>
+  <organisation2 />
+  <address1>Bergstrasse 5</address1>
+  <address2 />
+  <address3 />
+  <zip>91090</zip>
+  <city>Effeltrich</city>
+  <state />
+  <countrycode>DE</countrycode>
+  <country>Germany</country>
+  <country_long>Germany</country_long>
+  <region>Western_Europe</region>
+  <phone>00491741926034</phone>
+  <homepage_url>http://www.kai-waehner.de/</homepage_url>
+  <nationality>German</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-06-04 08:55:34</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1016</personID>
+  <1_Video_Reference_1>http://vimeo.com/66624376</1_Video_Reference_1>
+  <2_Community_Rating_2>I want to participate</2_Community_Rating_2>
+ </user>
+
+ <user>
+  <personID>1012</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>CTO</academic_job_title>
+  <title_combined>CTO</title_combined>
+  <name>Warski</name>
+  <firstname>Adam</firstname>
+  <email>adam.warski@softwaremill.com</email>
+  <email2>adam@warski.org</email2>
+  <emailcc />
+  <organisation>SoftwareMill</organisation>
+  <organisation2 />
+  <address1>Lokajskiego 16/5</address1>
+  <address2 />
+  <address3 />
+  <zip>02-793</zip>
+  <city>Warsaw</city>
+  <state />
+  <countrycode>PL</countrycode>
+  <country>Poland</country>
+  <country_long>Poland</country_long>
+  <region>Eastern_Europe</region>
+  <phone>+48 660 703 691</phone>
+  <homepage_url>http://www.warski.org/</homepage_url>
+  <nationality>Polish</nationality>
+  <status>author</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-31 15:07:22</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1012</personID>
+  <1_Video_Reference_1>http://vimeo.com/26331728#</1_Video_Reference_1>
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1004</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title />
+  <title_combined />
+  <name>Weiss</name>
+  <firstname>Roland</firstname>
+  <email>roland.weiss@jazoon.com</email>
+  <email2>roland.weiss@netcetera.com</email2>
+  <emailcc />
+  <organisation>Jazoon</organisation>
+  <organisation2 />
+  <address1>Hirschengraben 6</address1>
+  <address2 />
+  <address3 />
+  <zip>3011</zip>
+  <city>Bern</city>
+  <state />
+  <countrycode>CH</countrycode>
+  <country>Switzerland</country>
+  <country_long>Switzerland</country_long>
+  <region>Western_Europe</region>
+  <phone>+41 79 435 95 64</phone>
+  <homepage_url />
+  <nationality>Swiss</nationality>
+  <status>admin,conferenceChair,pc</status>
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-05-08 11:11:18</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1004</personID>
+  <1_Video_Reference_1 />
+  <2_Community_Rating_2 />
+ </user>
+
+ <user>
+  <personID>1015</personID>
+  <title_selected>Mr.</title_selected>
+  <formal_salutation>Dear Mr.</formal_salutation>
+  <gender>male</gender>
+  <title_short />
+  <academic_job_title>CEO</academic_job_title>
+  <title_combined>CEO</title_combined>
+  <name>West</name>
+  <firstname>Thad</firstname>
+  <email>thad.west@isostech.com</email>
+  <email2 />
+  <emailcc />
+  <organisation>Isos Technology</organisation>
+  <organisation2>Isos Technology</organisation2>
+  <address1>60 E. Rio Salado Parkway</address1>
+  <address2>Suite 900</address2>
+  <address3 />
+  <zip>85281</zip>
+  <city>Tempe</city>
+  <state>AZ</state>
+  <countrycode>US</countrycode>
+  <country>United States</country>
+  <country_long>United States of America</country_long>
+  <region>North_America</region>
+  <phone>480-366-5784</phone>
+  <homepage_url>http://www.isostech.com/</homepage_url>
+  <nationality>American</nationality>
+  <status />
+  <topics_of_reviewer_pc />
+  <external_remark />
+  <internal_remark />
+  <user_registration>2013-06-04 03:27:25</user_registration>
+  <account_type>normal</account_type>
+  <deleted>0</deleted>
+  <personID>1015</personID>
+  <1_Video_Reference_1>http://isostech.com/webinars/scrum-kanban</1_Video_Reference_1>
+  <2_Community_Rating_2 />
+ </user>
+</users>
