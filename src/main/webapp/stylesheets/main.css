@@ -1,0 +1,23 @@
+body {
+
+}
+
+h1 {
+
+}
+
+.short-text {
+	max-height: 100px;
+	overflow: hidden;
+}
+
+.long-text {
+	
+}
+
+.green {
+	color: green;
+}
+.red {
+	color: red;
+}

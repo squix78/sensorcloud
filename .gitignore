@@ -1,0 +1,15 @@
+hotspot.log
+*.iml
+*.ipr
+*.iws
+target/
+classes/
+/var
+pom.xml.versionsBackup
+test-output/
+/atlassian-ide-plugin.xml
+.DS_Store
+temp-testng-customsuite.xml
+test-output
+.externalToolBuilders
+*~

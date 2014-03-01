@@ -1,0 +1,63 @@
+<div class="col-md-12">
+	<div class="row">
+		<div class="col-md-12" ng-show="isLoadingCurrent">
+			<img src="images/ajax-loader.gif"/> Please wait..
+		</div>
+	</div>
+		<a href="#/home">&lt;back</a>
+		<h4>
+			<span ng-class="{red: sensor.trend < 0, green: sensor.trend > 0}">
+				<span ng-show="sensor.trend < 0" class="glyphicon glyphicon-arrow-down"></span>
+				<span ng-show="sensor.trend > 0" class="glyphicon glyphicon-arrow-up"></span>
+				<span ng-show="sensor.trend === 0" class="glyphicon glyphicon-arrow-right"></span>
+			</span>
+			{{sensor.value | number:2}} {{sensor.unit}}
+		</h4> 
+		<p>{{sensor.location}}
+			<div class="row">
+				<nvd3-line-chart class="col-md-12"
+			    	data="sensorValues"
+			    	height="250"
+			        id="graphSensor1"
+			        forcey="[{{sensor.minValue * 0.9}},{{sensor.maxValue * 1.1}}]"
+					xAxisTickFormat="xAxisTickFormatFunction()"
+			        showXAxis="true"
+			        showYAxis="true"
+			        interactive="true"
+			        interpolate="{{getGraphType(sensor.sensorType)}}"
+        			tooltips="true">
+        			
+			    		<svg></svg>
+			    </nvd3-line-chart>
+
+			</div>
+			<a href="#/history/{{sensor.sensorId}}">History</a>
+		</p>
+
+		<div>
+			<div class="row">
+				<div class="col-md-2"><b>Updated:</b></div>
+				<div class="col-md-10">{{sensor.updatedDate | date:'HH:mm:ss - dd.MM.yyyy' }}</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2"><b>Avarage:</b></div>
+				<div class="col-md-10">{{sensor.average | number:2}} {{sensor.unit}}</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2"><b>Min:</b></div>
+				<div class="col-md-10">{{sensor.minValue | number:2}} {{sensor.unit}} at {{sensor.minDate | date:'HH:mm:ss' }}</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2"><b>Max:</b></div>
+				<div class="col-md-10">{{sensor.maxValue | number:2}} {{sensor.unit}} at {{sensor.maxDate | date:'HH:mm:ss' }}</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2"><b>Tuples:</b></div>
+				<div class="col-md-10">{{sensor.tupleCount}} Tuple(s) since {{sensor.oldestTupleDate | date:'HH:mm:ss - dd.MM.yyyy' }}</div>
+			</div>
+
+		</div>
+
+		
+
+</div>

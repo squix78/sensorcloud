@@ -1,0 +1,26 @@
+<div class="col-md-12">
+	<div class="row">
+		<div class="col-md-12" ng-show="isLoadingCurrent">
+			<img src="images/ajax-loader.gif"/> Please wait..
+		</div>
+	</div>
+
+	<div class="col-md-6" ng-repeat="sensor in sensors | orderBy:'sensorId'">
+	 <div class="well">
+		<h4>
+			<span ng-class="{red: sensor.trend < 0, green: sensor.trend > 0}">
+				<span ng-show="sensor.trend < 0" class="glyphicon glyphicon-arrow-down"></span>
+				<span ng-show="sensor.trend > 0" class="glyphicon glyphicon-arrow-up"></span>
+				<span ng-show="sensor.trend === 0" class="glyphicon glyphicon-arrow-right"></span>
+			</span>
+			{{sensor.value | number:2}} {{sensor.unit}}
+		</h4> 
+		<p>{{sensor.location}}
+		<button class="btn btn-default btn-xs pull-right" ng-click="showDetails({{sensor.sensorId}})">Details</button>
+		</p>
+
+
+	 </div>
+		
+	</div>
+</div>

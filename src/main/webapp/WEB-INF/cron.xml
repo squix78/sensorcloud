@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/rest/admin/persistHighscore</url>
+    <description>Create history of highscore for trending</description>
+    <schedule>every day 00:00</schedule>
+  </cron>
+</cronentries>

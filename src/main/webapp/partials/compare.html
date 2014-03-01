@@ -1,0 +1,36 @@
+<div class="col-md-12">
+	<div class="row">
+		<div class="col-md-12" ng-show="isLoadingCurrent">
+			<img src="images/ajax-loader.gif"/> Please wait..
+		</div>
+	</div>
+		<a href="#/home">&lt;back</a>
+		<h4>
+			<span ng-class="{red: sensor.trend < 0, green: sensor.trend > 0}">
+				<span ng-show="sensor.trend < 0" class="glyphicon glyphicon-arrow-down"></span>
+				<span ng-show="sensor.trend > 0" class="glyphicon glyphicon-arrow-up"></span>
+				<span ng-show="sensor.trend === 0" class="glyphicon glyphicon-arrow-right"></span>
+			</span>
+			{{sensor.value | number:2}} {{sensor.unit}}
+		</h4> 
+		<p>{{sensor.location}}
+			<div class="row">
+				<nvd3-cumulative-line-chart class="col-md-12"
+			    	data="sensorValues"
+			    	height="250"
+			        id="graphSensor2"
+					xAxisTickFormat="xAxisTickFormatFunction()"
+			        showXAxis="true"
+			        showYAxis="true"
+			        interactive="true"
+        			tooltips="true">
+			    		<svg></svg>
+			    </nvd3-cumulative-line-chart>
+
+			</div>
+		</p>
+
+
+		
+
+</div>
